@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048618485774",
+    "project_id": "rahbar-app-b0b13",
+    "storage_bucket": "rahbar-app-b0b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048618485774:android:cf13b0c870fd0b268c145f",
+        "android_client_info": {
+          "package_name": "com.example.project_appdev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKKwXOUeTAsYRO3dthTOK8jyBkL4NTMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048618485774:android:e2755c2af7c5351c8c145f",
+        "android_client_info": {
+          "package_name": "com.example.rahbarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbKKwXOUeTAsYRO3dthTOK8jyBkL4NTMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
